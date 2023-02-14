@@ -1,4 +1,4 @@
-# Apuntes sobre JavaScript Basico :tw-1f527:
+# Apuntes sobre JavaScript Basico ⚙
 Link del curso : [JS Basico](http://https://platzi.com/cursos/basico-javascript/ "JS Basico")
 Temario : 
 - Conceptos de JavaScript
